@@ -32,8 +32,13 @@ int main() {
     cout << inches % 12 << " inch(es) " << "\n";
 
     //Comparing Variables 
-
+    char A = 'A';
+    char B = 'B';
     
+    if (A > B) then 
+        cout << " A > B " << "\n";
+    if (A < B) then 
+        cout << " A < B " << "\n";
 
     //Expressions with Variables
     cout << " 2 + 3.5   " << 2 + 3.5 << "\n";
